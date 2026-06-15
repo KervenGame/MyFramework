@@ -1,0 +1,134 @@
+# =============================================
+# Unity
+# =============================================
+
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+
+# Memory Profiler Snapshots
+[Mm]emoryCaptures/
+
+# Recordings
+[Rr]ecordings/
+
+# Asset Store downloads
+AssetStoreTools*
+
+# IDE auto-generated project files (Unity regenerates them)
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Re-enable the specific project files that should be tracked
+!ToolProject/**/*.csproj
+!ToolProject/**/*.sln
+!ToolProject/**/*.vcxproj
+!ToolProject/**/*.vcxproj.filters
+!ToolProject/**/*.vcxproj.user
+
+# Unity3D generated meta files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Crashlytics
+sysinfo.txt
+
+# =============================================
+# IDE
+# =============================================
+
+# JetBrains Rider / IntelliJ
+.idea/
+*.DotSettings.user
+
+# Visual Studio
+.vs/
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# =============================================
+# OS
+# =============================================
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# =============================================
+# Android
+# =============================================
+
+AndroidProject/.gradle/
+AndroidProject/app/build/
+AndroidProject/build/
+AndroidProject/local.properties
+AndroidProject/.idea/
+
+# =============================================
+# Build outputs
+# =============================================
+
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# =============================================
+# Misc
+# =============================================
+
+# Plastic SCM
+*.ignore
+*.orig
+
+# FMOD
+Assets/Plugins/FMOD/*.cache
+
+# Bolt
+Assets/Bolt/**
+
+#MobileDependencyResolver
+Assets/MobileDependencyResolver
+Assets/MobileDependencyResolver.meta
+
+# Obfuz generated (regenerated on build)
+# Assets/Obfuz/GeneratedEncryptionVirtualMachine.cs
+
+# =============================================
+# ToolProject build outputs
+# =============================================
+
+ToolProject/**/bin/
+ToolProject/**/obj/
+ToolProject/**/Debug/
+ToolProject/**/Release/
+ToolProject/**/x64/
+ToolProject/**/x86/
+ToolProject/**/.vs/
